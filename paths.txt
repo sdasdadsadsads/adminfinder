@@ -680,6 +680,7 @@ sysadm.php
 superman/
 supervisor/
 panel.php
+cronjob/
 control/
 control.php
 member/
@@ -688,6 +689,8 @@ members.php
 user/
 user.php
 cp/
+backend/
+office/
 uvpanel/
 manage/
 manage.php
